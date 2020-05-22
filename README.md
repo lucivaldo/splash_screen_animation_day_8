@@ -1,5 +1,7 @@
 # splash_screen_day_8
 
+Créditos: [https://github.com/afgprogrammer/Flutter-Splash-Screen-Animation](https://github.com/afgprogrammer/Flutter-Splash-Screen-Animation)
+
 A new Flutter project.
 
 ## Getting Started
